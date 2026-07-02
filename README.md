@@ -143,6 +143,5 @@ A detailed business report summarizing the complete analysis, visualizations, fi
 
 **Aryaman Modi**
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: www.linkedin.com/in/aryaman-modi-8a834a200
 
-GitHub: https://github.com/Aryaman-Modi
